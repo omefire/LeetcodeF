@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "38-CountAndSay", "38-CountA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "26-RemoveDuplicatesFromSortedArray", "26-RemoveDuplicatesFromSortedArray\26-RemoveDuplicatesFromSortedArray.csproj", "{5A3136B5-5F13-4C4B-A166-8DF89D6C49C2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "67-AddBinary", "67-AddBinary\67-AddBinary.csproj", "{B52148B3-2536-4430-B7C5-535BE7C13B6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "234-PalindromeLinkedList", "234-PalindromeLinkedList\234-PalindromeLinkedList.csproj", "{34217ACF-5E93-4A72-B70F-2697CC82F25B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +61,14 @@ Global
 		{5A3136B5-5F13-4C4B-A166-8DF89D6C49C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A3136B5-5F13-4C4B-A166-8DF89D6C49C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A3136B5-5F13-4C4B-A166-8DF89D6C49C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B52148B3-2536-4430-B7C5-535BE7C13B6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B52148B3-2536-4430-B7C5-535BE7C13B6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B52148B3-2536-4430-B7C5-535BE7C13B6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B52148B3-2536-4430-B7C5-535BE7C13B6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34217ACF-5E93-4A72-B70F-2697CC82F25B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34217ACF-5E93-4A72-B70F-2697CC82F25B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34217ACF-5E93-4A72-B70F-2697CC82F25B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34217ACF-5E93-4A72-B70F-2697CC82F25B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
