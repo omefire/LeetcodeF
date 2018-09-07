@@ -10,7 +10,7 @@ namespace _69_Sqrt
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(sqrt(8));
+            Console.WriteLine(sqrt(9));
             Console.ReadLine();
         }
 
@@ -34,7 +34,7 @@ namespace _69_Sqrt
                     lo = mid + 1;
                 } else
                 {
-                    hi = mid;
+                    hi = mid - 1;
                 }
             }
 
