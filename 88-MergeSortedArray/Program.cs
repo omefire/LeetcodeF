@@ -10,10 +10,10 @@ namespace _88_MergeSortedArray
     {
         static void Main(string[] args)
         {
-            foreach(var e in MergeSortedArray(
-                new int[] {1, 2, 3, 0, 0, 0},
+            foreach (var e in MergeSortedArray(
+                new int[] { 1, 2, 3, 0, 0, 0 },
                 3,
-                new int[] {2, 5, 6},
+                new int[] { 2, 5, 6 },
                 3
                 ))
             {
@@ -29,23 +29,24 @@ namespace _88_MergeSortedArray
             int i = len1 - 1;
             int j = len2 - 1;
 
-            while((i >= 0) && (j >= 0))
+            while ((i >= 0) && (j >= 0))
             {
-                if(nums1[i] >= nums2[j])
+                if (nums1[i] >= nums2[j])
                 {
                     nums1[k--] = nums1[i--];
-                } else
+                }
+                else
                 {
                     nums1[k--] = nums2[j--];
                 }
             }
 
-            while(i >= 0)
+            while (i >= 0)
             {
                 nums1[k--] = nums1[i--];
             }
 
-            while(j >= 0)
+            while (j >= 0)
             {
                 nums1[k--] = nums2[j--];
             }
