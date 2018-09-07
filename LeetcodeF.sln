@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "234-PalindromeLinkedList", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "88-MergeSortedArray", "88-MergeSortedArray\88-MergeSortedArray.csproj", "{22F3783C-E292-41E6-A792-289E5E9F8FEC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "28-ImplementStrStr", "28-ImplementStrStr\28-ImplementStrStr.csproj", "{BBAE2AFD-4734-4197-8028-DADAE97EA0D3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{22F3783C-E292-41E6-A792-289E5E9F8FEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22F3783C-E292-41E6-A792-289E5E9F8FEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22F3783C-E292-41E6-A792-289E5E9F8FEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBAE2AFD-4734-4197-8028-DADAE97EA0D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBAE2AFD-4734-4197-8028-DADAE97EA0D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBAE2AFD-4734-4197-8028-DADAE97EA0D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBAE2AFD-4734-4197-8028-DADAE97EA0D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
