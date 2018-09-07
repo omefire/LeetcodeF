@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "69-Sqrt", "69-Sqrt\69-Sqrt.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "125-ValidPalindrome", "125-ValidPalindrome\125-ValidPalindrome.csproj", "{B69A6C2D-D48B-46FA-8524-151176DE451A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "168-ExcelSheetColumnTitle", "168-ExcelSheetColumnTitle\168-ExcelSheetColumnTitle.csproj", "{E3D17F6A-074B-4D4C-ACD8-13AE9F640D5A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{B69A6C2D-D48B-46FA-8524-151176DE451A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B69A6C2D-D48B-46FA-8524-151176DE451A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B69A6C2D-D48B-46FA-8524-151176DE451A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3D17F6A-074B-4D4C-ACD8-13AE9F640D5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3D17F6A-074B-4D4C-ACD8-13AE9F640D5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3D17F6A-074B-4D4C-ACD8-13AE9F640D5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3D17F6A-074B-4D4C-ACD8-13AE9F640D5A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

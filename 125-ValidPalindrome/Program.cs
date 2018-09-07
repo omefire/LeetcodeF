@@ -10,7 +10,7 @@ namespace _125_ValidPalindrome
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(isPalindrome("A MA "));
+            Console.WriteLine(isPalindrome("A man, a plan, a canal: Panama"));
             Console.ReadLine();
         }
 
