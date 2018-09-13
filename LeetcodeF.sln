@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "125-ValidPalindrome", "125-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "168-ExcelSheetColumnTitle", "168-ExcelSheetColumnTitle\168-ExcelSheetColumnTitle.csproj", "{E3D17F6A-074B-4D4C-ACD8-13AE9F640D5A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "173-BinarySearchIterator", "173-BinarySearchIterator\173-BinarySearchIterator.csproj", "{10755DFC-FCE2-443C-A72B-E3D6DE39A979}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{E3D17F6A-074B-4D4C-ACD8-13AE9F640D5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E3D17F6A-074B-4D4C-ACD8-13AE9F640D5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E3D17F6A-074B-4D4C-ACD8-13AE9F640D5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10755DFC-FCE2-443C-A72B-E3D6DE39A979}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10755DFC-FCE2-443C-A72B-E3D6DE39A979}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10755DFC-FCE2-443C-A72B-E3D6DE39A979}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10755DFC-FCE2-443C-A72B-E3D6DE39A979}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -10,6 +10,10 @@ namespace _168_ExcelSheetColumnTitle
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("abc".Substring(0, 2));
+            Console.ReadLine();
+            return;
+
             Console.WriteLine(ColTitle(1));
             Console.WriteLine(ColTitle(26));
             Console.WriteLine(ColTitle(27));
